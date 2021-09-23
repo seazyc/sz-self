@@ -1843,13 +1843,14 @@ break;
 
 
 case 'join':
+if (!mek.key.fromMe) return reply('only premium')
 try {
 if (!isUrl(args[0]) && !args[0].includes('whatsapp.com')) return reply(mess.Iv)
 hen = args[0]
 if (!q) return fakestatus('Masukan link group')
 var codeInvite = hen.split('https://chat.whatsapp.com/')[1]
 if (!codeInvite) return reply ('pastikan link sudah benar!')
-var response = await hexa.acceptInvite(codeInvite)
+var response = await conn.acceptInvite(codeInvite)
 reply('SUKSES')
 } catch {
 reply('LINK ERROR!')
