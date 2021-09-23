@@ -31,15 +31,15 @@
 * `=> [eval async]`
 * `$ [code]`
 * `q`
-* `view [read once]`
-* `term [code]`
+* `view`
+* `term`
 * `upswteks`
 * `upswvideo`
 * `upswimage`
-* `mode [button]`
-* `setprefix [buttton]`
-* `setfakeimg [reply]`
-* `setthumb [reply]`
+* `mode`
+* `setprefix`
+* `setfakeimg`
+* `setthumb`
 * `bc`
 * `clearall`
 * `setpp`
@@ -52,12 +52,12 @@
 ### GROUP
 * `kick`
 * `add`
-* `group [button]`
+* `group`
 * `listadmin`
 * `tagall`
 * `hidetag`
 * `totag`
-* `antiviewonce[button]`
+* `antiviewonce`
 * `sider`
 * `rulesgroup`
 * `promote`
@@ -84,7 +84,7 @@
 * `getpic`
 * `linkwa`
 * `translate`
-* `repeat [teks*4]`
+* `repeat`
 * `cecan`
 * `cogan`
 * `darkjokes`
@@ -105,7 +105,7 @@
 * `play`
 * `ytdl`
 * `tiktok`
-* `ig [link]`
+* `ig`
 * `video`
 * `igstory`
 * `lirik`
