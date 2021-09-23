@@ -26,42 +26,128 @@
 ```
 
 
-### Owner
-* `Setfake`
-* `Upswteks`
-* `Upswimage`
-* `Upswvideo`
-* `Runtime`
-* `Ping`
-* `Self`
-* `Public`
-* `[ > ]Eval`
-* `Term`
-* `Setthumb`
-* `Broadcast`
-* `Leave`
+### OWNER
+* `> [eval]`
+* `=> [eval async]`
+* `$ [code]`
+* `q`
+* `view [read once]`
+* `term [code]`
+* `upswteks`
+* `upswvideo`
+* `upswimage`
+* `mode [button]`
+* `setprefix [buttton]`
+* `setfakeimg [reply]`
+* `setthumb [reply]`
+* `bc`
+* `clearall`
+* `setpp`
+* `leave`
+* `get`
+* `setnama`
+* `join`
+* `status`
 
-### Maker
-* `Sticker`
-* `Toimg`
-* `Circle Sticker`
+### GROUP
+* `kick`
+* `add`
+* `group [button]`
+* `listadmin`
+* `tagall`
+* `hidetag`
+* `totag`
+* `antiviewonce[button]`
+* `sider`
+* `rulesgroup`
+* `promote`
+* `demote`
+* `revoke`
+* `getname`
+* `groupinfo`
+* `linkgc`
 
-### Downloader
-* `IG Download`
-* `FB Download`
-* `YT Play`
+### WIBU
+* `waifu`
+* `loli`
+* `husbu`
+* `anime`
 
-### Grup
-* `Hidetag`
-* `Listadmin`
-* `Tagall`
+### OTHER
+* `sherelock`
+* `listgroup`
+* `google`
+* `runtime`
+* `ping`
+* `inspect`
+* `pinterest`
+* `getpic`
+* `linkwa`
+* `translate`
+* `repeat [teks*4]`
+* `cecan`
+* `cogan`
+* `darkjokes`
+* `kontak`
 
-### Other
-* `sharelock`
-* `Detikvn`
-* `Detikvideo`
+### CONVERT
+* `take`
+* `stiker`
+* `toimg`
+* `detikvideo`
+* `detikvn`
+* `tomp4`
+* `attp`
+* `emoji`
 
+### DOWNLOAD
+* `playstore`
+* `play`
+* `ytdl`
+* `tiktok`
+* `ig [link]`
+* `video`
+* `igstory`
+* `lirik`
+* `ytmp3`
+* `ytmp4`
+* `ytsearch`
 
+### STC CMD
+* `addcmd`
+* `delcmd`
+* `listcmd`
+
+### FUN
+* `readmore`
+* `jadian`
+* `ganteng`
+* `beban`
+* `cantik`
+* `jelek`
+* `nganggur`
+* `hebat`
+* `wibu`
+* `pakboy`
+* `pakgirl`
+* `sange`
+* `nolep`
+* `jahat`
+* `baik`
+
+### STORAGE
+* `addimg`
+* `getimg`
+* `listimg`
+* `liststicker`
+* `addsticker`
+* `getsticker`
+* `addvn`
+* `getvn`
+* `listvn`
+* `getvideo`
+* `listvideo`
+* `addvideo`
 
 ## Note:
 * Fiturnya Masih Biasa aja:(
