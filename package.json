@@ -1,7 +1,7 @@
 {
   "name": "SZ-SELF",
   "version": "0.0.1",
-  "description": "Enjoy", 
+  "description": "jangn lupa bahagia",
   "main": "run.js",
   "directories": {
     "lib": "lib"
@@ -33,6 +33,7 @@
     "moment-timezone": "^0.5.33",
     "ms": "^2.1.3",
     "node-fetch": "^2.6.1",
+    "node-webpmux": "^3.1.0",
     "parse-ms": "^2.1.0",
     "performance-now": "^2.1.0",
     "qrcode-terminal": "^0.12.0",
@@ -51,15 +52,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Seazyc/sz-self"
+    "url": "git+https://github.com/seazyc/sz-self.git"
   },
   "keywords": [
     "Wasu"
   ],
-  "author": "Seazyc",
+  "author": "SEAZYC",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Seazyc/sz-self"
+    "url": "https://github.com/seazyc/sz-self/issues"
   },
-  "homepage": "https://github.com/Seazyc"
+  "homepage": "https://github.com/adulalhy"
 }
