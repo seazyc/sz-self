@@ -1,0 +1,7 @@
+{
+  "name": "whatsapp-bot",
+  "description": "whatsapp bot build with nodejs",
+  "repository": "https://github.com/Seazyc/sz-self",
+  "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtR4hWFfcT1E-_-4FBDTedDhlE0OT1U4bLfg&usqp=CAU",
+  "keywords": ["nodejs", "bot", "whatsapp bot"]
+}
