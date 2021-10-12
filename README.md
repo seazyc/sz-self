@@ -1,3 +1,5 @@
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 ## Cara Install Di Termux
 ```cmd
 > pkg update && pkg upgrade
