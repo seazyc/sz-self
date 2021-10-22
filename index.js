@@ -719,10 +719,7 @@ fs.unlinkSync(ran)
 break
 
 case 'play':
-if (args.length === 0) {
-txtna = `*「 YTMP3 DOWNLOADER 」*\nSilahkan Balas pesan ini lalu ketik link nya`
-conn.sendMessage(from, txtna, text, { quoted: mek, messageId: command+'GRUP '+randomSZ() })
-} else {
+if(!q) return reply('contoh .play dj ayam')
 var srch = args.join('')
  aramas = await yts(srch);
 aramat = aramas.all 
