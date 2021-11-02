@@ -738,7 +738,7 @@ axios.get(`https://tinyurl.com/api-create.php?url=${dl_link}`)
 })
 } catch (err) {
 reply(mess.error.api)
-}}
+}
 break  
 
 case 'video':
